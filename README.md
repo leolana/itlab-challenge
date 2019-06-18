@@ -13,9 +13,9 @@ Conheça o cálculo [Cálculo Eclesiástico](https://www.inf.ufrgs.br/~cabral/Pa
 De acordo com seus skills, queremos entender a forma como você pensa para resolver problemas, como você organiza seu código e quais tecnologias você se sente mais confortável para utilizar no dia-a-dia.
 
 ## Sobre o desafio
-Criar um algoritmo na linguagem que você preferir para resolver se o dia informado é *carnaval* :tada: :tada: :tada:.
-Onde você precisará criar uma api para expor esse algoritmo, recebendo uma data e retornando se o dia passado é carnaval e qual será o dia da páscoa baseado na data de entrada.
-Também pedimos a construção de uma página web criada com React Js ou Angular ou Vue.js, mas escolha o de sua preferência.
+Criar um algoritmo na linguagem que você preferir para resolver se o dia informado é *carnaval* :tada: :tada: :tada:.  
+Onde você precisará criar uma api para expor esse algoritmo, recebendo uma data e retornando se o dia passado é carnaval e qual será o dia da páscoa baseado na data de entrada.  
+Também pedimos a construção de uma página web criada com **ReactJs** ou **Angular** ou **Vue.js**, mas escolha o de sua preferência.
 
 **Serão avalidos os tópicos:**
 - Organização do código.
