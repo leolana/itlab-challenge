@@ -26,7 +26,8 @@ Também pedimos a construção de uma página web criada com **ReactJs** ou **An
 - Validações de campos.
 - Alerta a usuários.
 - Quantidade de bugs.
-- Modularização
+- Modularização.
+- Testes automatizados.
 - Organização das atividades.
 - Documentação para build, start da aplicação e execução de testes.
 
